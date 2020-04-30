@@ -34,7 +34,7 @@
     "classlist.js": "^1.1.20150312",
     "core-js": "^2.6.11",
     "echarts": "^4.6.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "ngx-echarts": "^4.2.2",
     "rxjs": "^6.5.4",
